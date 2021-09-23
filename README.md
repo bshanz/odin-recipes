@@ -1,0 +1,1 @@
+In this project I learned how to create HTML pages. Setting up the template, links, images, headlines, and using GIT for all of the above. Last but not least, pushed it live to GitHub. Great learning experience!
